@@ -48,5 +48,10 @@
   {
       "package": "posteriordb",
       "url": "https://github.com/stan-dev/posteriordb-r"
+  },
+  {
+      "package": "RcppEigen",
+      "url": "https://github.com/RcppCore/RcppEigen",
+      "noindex": true
   }
 ]
